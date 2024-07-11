@@ -1,3 +1,6 @@
+# demo of app 
+![image load](https://github.com/sahilshekh541/MovieLand/blob/main/demo.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
